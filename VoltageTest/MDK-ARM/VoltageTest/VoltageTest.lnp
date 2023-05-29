@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"voltagetest\startup_stm32f103xe.o"
+"voltagetest\main.o"
+"voltagetest\gpio.o"
+"voltagetest\tim.o"
+"voltagetest\usart.o"
+"voltagetest\stm32f1xx_it.o"
+"voltagetest\stm32f1xx_hal_msp.o"
+"voltagetest\stm32f1xx_hal_gpio_ex.o"
+"voltagetest\stm32f1xx_hal_tim.o"
+"voltagetest\stm32f1xx_hal_tim_ex.o"
+"voltagetest\stm32f1xx_hal.o"
+"voltagetest\stm32f1xx_hal_rcc.o"
+"voltagetest\stm32f1xx_hal_rcc_ex.o"
+"voltagetest\stm32f1xx_hal_gpio.o"
+"voltagetest\stm32f1xx_hal_dma.o"
+"voltagetest\stm32f1xx_hal_cortex.o"
+"voltagetest\stm32f1xx_hal_pwr.o"
+"voltagetest\stm32f1xx_hal_flash.o"
+"voltagetest\stm32f1xx_hal_flash_ex.o"
+"voltagetest\stm32f1xx_hal_exti.o"
+"voltagetest\stm32f1xx_hal_uart.o"
+"voltagetest\system_stm32f1xx.o"
+"voltagetest\voltageget.o"
+--library_type=microlib --strict --scatter "VoltageTest\VoltageTest.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "VoltageTest.map" -o VoltageTest\VoltageTest.axf

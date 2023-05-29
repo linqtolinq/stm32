@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "tim.h": "c",
+        "task.h": "c",
+        "adc.h": "c",
+        "ledtask.h": "c",
+        "bsp_ili9341_lcd.h": "c",
+        "stdio.h": "c",
+        "key.h": "c"
+    }
+}

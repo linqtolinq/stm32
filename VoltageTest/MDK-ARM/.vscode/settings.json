@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "voltageget.h": "c",
+        "main.h": "c",
+        "stdlib.h": "c"
+    }
+}

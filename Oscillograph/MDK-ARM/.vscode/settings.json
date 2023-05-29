@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "tftled.h": "c",
+        "test.h": "c",
+        "font.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "adc.h": "c"
+    }
+}

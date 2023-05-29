@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "memory": "c",
+        "tim.h": "c",
+        "app.h": "c",
+        "adc.h": "c",
+        "dac.h": "c",
+        "main.h": "c",
+        "stdio.h": "c",
+        "key.h": "c",
+        "dac_task.h": "c",
+        "stm32f1xx_it.h": "c",
+        "math.h": "c",
+        "fft.h": "c"
+    }
+}

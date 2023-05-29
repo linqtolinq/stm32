@@ -1,0 +1,17 @@
+oscillograph\bayesfunctions.o: D:/keil5_pak/ARM/CMSIS-DSP/1.14.4/Source/BayesFunctions/BayesFunctions.c
+oscillograph\bayesfunctions.o: D:/keil5_pak/ARM/CMSIS-DSP/1.14.4/Source/BayesFunctions/arm_gaussian_naive_bayes_predict_f32.c
+oscillograph\bayesfunctions.o: D:\keil5_pak\ARM\CMSIS-DSP\1.14.4\Include\dsp/bayes_functions.h
+oscillograph\bayesfunctions.o: D:\keil5_pak\ARM\CMSIS-DSP\1.14.4\Include\arm_math_types.h
+oscillograph\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+oscillograph\bayesfunctions.o: D:\keil5_v5\ARM\ARMCC\Bin\..\include\stdint.h
+oscillograph\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+oscillograph\bayesfunctions.o: D:\keil5_v5\ARM\ARMCC\Bin\..\include\string.h
+oscillograph\bayesfunctions.o: D:\keil5_v5\ARM\ARMCC\Bin\..\include\math.h
+oscillograph\bayesfunctions.o: D:\keil5_v5\ARM\ARMCC\Bin\..\include\float.h
+oscillograph\bayesfunctions.o: D:\keil5_v5\ARM\ARMCC\Bin\..\include\limits.h
+oscillograph\bayesfunctions.o: D:\keil5_pak\ARM\CMSIS-DSP\1.14.4\Include\arm_math_memory.h
+oscillograph\bayesfunctions.o: D:\keil5_pak\ARM\CMSIS-DSP\1.14.4\Include\dsp/none.h
+oscillograph\bayesfunctions.o: D:\keil5_pak\ARM\CMSIS-DSP\1.14.4\Include\dsp/utils.h
+oscillograph\bayesfunctions.o: D:\keil5_pak\ARM\CMSIS-DSP\1.14.4\Include\dsp/statistics_functions.h
+oscillograph\bayesfunctions.o: D:\keil5_pak\ARM\CMSIS-DSP\1.14.4\Include\dsp/basic_math_functions.h
+oscillograph\bayesfunctions.o: D:\keil5_pak\ARM\CMSIS-DSP\1.14.4\Include\dsp/fast_math_functions.h
